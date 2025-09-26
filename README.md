@@ -1,18 +1,22 @@
-# YouTube Data Collection and Analysis
+# Data Analytics Portfolio
+
+All of my Data Analytics projects are here!
+
+## YouTube Data Collection and Analysis
 
 This project analyzes YouTube trending videos data to extract insights and patterns.
 
-## Files
+### Files
 - `YouTube Data Collection and Analysis.ipynb` - Main Jupyter notebook containing the analysis
 - `trending_videos.csv` - Dataset containing YouTube trending videos data
 - `.gitignore` - Git ignore file for Python/Jupyter projects
 
-## Getting Started
+### Getting Started
 1. Clone this repository
 2. Install required dependencies (pandas, numpy, matplotlib, seaborn, etc.)
 3. Open the Jupyter notebook and run the cells
 
-## 🔹 2. Detailed Documentation
+## 🔹 Detailed Documentation
 
 ### **1. Introduction**
 The project focuses on collecting and analyzing YouTube data using the YouTube Data API v3. The purpose is to understand content trends, audience engagement, and channel growth strategies.
@@ -55,7 +59,7 @@ The project focuses on collecting and analyzing YouTube data using the YouTube D
 - Add Natural Language Processing (NLP) for comment sentiment analysis.  
 - Extend analysis to multiple channels for comparative studies.
 
-## Requirements
+### Requirements
 - Python 3.x
 - Jupyter Notebook
 - Required libraries: pandas, numpy, matplotlib, seaborn, google-api-python-client (and others as specified in the notebook)
