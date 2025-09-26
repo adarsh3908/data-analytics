@@ -17,6 +17,20 @@ Comprehensive analysis of YouTube trending videos data using the YouTube Data AP
 
 ---
 
+### 🎬 [Netflix Content Strategy Analysis](./netflix%20content%20strategy%20analysis/)
+In-depth analysis of Netflix's content strategy, market positioning, and streaming industry trends.
+
+**Key Features:**
+- Content portfolio and genre distribution analysis
+- Strategic positioning in streaming market
+- Geographic expansion and localization insights
+- Original vs. licensed content strategy assessment
+- Temporal content release pattern analysis
+
+**Technologies Used:** Python, Pandas, Matplotlib, Seaborn, Plotly, Geopandas
+
+---
+
 ## Getting Started
 
 Each project folder contains:
@@ -37,5 +51,9 @@ data-analytics/
 │   ├── README.md
 │   ├── YouTube Data Collection and Analysis.ipynb
 │   └── trending_videos.csv
+├── netflix content strategy analysis/
+│   ├── README.md
+│   ├── Netflix Content Strategy Analysis.ipynb
+│   └── netflix_data.csv
 └── [Future projects will be added here]
 ```
