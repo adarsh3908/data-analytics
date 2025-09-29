@@ -82,6 +82,13 @@ Feel free to explore the projects and reach out with any questions or suggestion
 - **Highlight**: Machine learning anomaly detection, Prophet forecasting, statistical extreme event identification
 - **Techniques**: Isolation Forest, Facebook Prophet, correlation analysis, rolling averages, threshold statistics
 
+### 7. Price Optimization Analysis
+**Focus**: Competitive pricing strategy development using demand elasticity and market intelligence
+- **Dataset**: 100,000+ retail transactions with competitive pricing data
+- **Key Analysis**: Price elasticity calculation, competitive positioning, dynamic pricing algorithms
+- **Highlight**: Revenue optimization through segment-specific pricing strategies and automated recommendations
+- **Techniques**: Demand elasticity modeling, market segmentation, competitive intelligence, dynamic pricing
+
 ## Repository Structure
 ```
 data-analytics/
@@ -95,6 +102,10 @@ data-analytics/
 │   ├── README.md
 │   ├── Bank Churn Classificaton.ipynb
 │   └── Bank_Churn.csv
+├── price optimization analysis/
+│   ├── README.md
+│   ├── Optimizing the Price of a Product.ipynb
+│   └── Competition_Data.csv
 ├── rainfall analysis/
 │   ├── README.md
 │   ├── Rainfall analysis.ipynb
