@@ -11,7 +11,14 @@ Welcome to my Data Analytics projects repository! This repository contains a col
 - **Highlight**: Impact of 2015 regulations on market dynamics (fewer hosts, higher prices)
 - **Techniques**: Pandas groupby operations, time series analysis, dual-axis visualizations
 
-### 2. YouTube Data Collection and Analysis
+### 2. Bank Customer Churn Classification
+**Focus**: Predicting customer churn using machine learning to enable proactive retention strategies
+- **Dataset**: 10,000 bank customer records with demographics and banking behavior
+- **Key Analysis**: Logistic Regression vs Random Forest comparison, feature importance analysis
+- **Highlight**: 85%+ accuracy with optimized Random Forest, actionable business insights
+- **Techniques**: Feature engineering, hyperparameter tuning, ROC analysis, threshold optimization
+
+### 3. YouTube Data Collection and Analysis
 
 ## Projects
 
@@ -28,7 +35,7 @@ Comprehensive analysis of YouTube trending videos data using the YouTube Data AP
 
 ---
 
-### 3. Netflix Content Strategy Analysis
+### 4. Netflix Content Strategy Analysis
 In-depth analysis of Netflix's content strategy, market positioning, and streaming industry trends.
 
 **Key Features:**
@@ -42,7 +49,7 @@ In-depth analysis of Netflix's content strategy, market positioning, and streami
 
 ---
 
-### 4. Batting Intent Analysis
+### 5. Batting Intent Analysis
 Comprehensive analysis of batting strategies and intent patterns in IPL cricket using ball-by-ball data.
 
 **Key Features:**
@@ -77,6 +84,10 @@ data-analytics/
 │   ├── README.md
 │   ├── AirBnB Listing Analysis.ipynb
 │   └── Listings.csv
+├── bank churn classification/
+│   ├── README.md
+│   ├── Bank Churn Classificaton.ipynb
+│   └── Bank_Churn.csv
 ├── youtube api analytics/
 │   ├── README.md
 │   ├── YouTube Data Collection and Analysis.ipynb
