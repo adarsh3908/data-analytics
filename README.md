@@ -54,6 +54,6 @@ data-analytics/
 ├── netflix content strategy analysis/
 │   ├── README.md
 │   ├── Netflix Content Strategy Analysis.ipynb
-│   └── netflix_data.csv
+│   └── netflix_content.csv
 └── [Future projects will be added here]
 ```

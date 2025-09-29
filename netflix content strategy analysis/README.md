@@ -4,7 +4,7 @@ This project analyzes Netflix's content strategy, viewership patterns, and marke
 
 ## Files
 - `Netflix Content Strategy Analysis.ipynb` - Main Jupyter notebook containing comprehensive analysis
-- `netflix_data.csv` - Dataset containing Netflix content information (titles, genres, ratings, etc.)
+- `netflix_content.csv` - Dataset containing Netflix content information (titles, genres, ratings, etc.)
 
 ## Getting Started
 1. Clone this repository
@@ -88,7 +88,7 @@ This project focuses on analyzing Netflix's content strategy through data-driven
 netflix content strategy analysis/
 ├── README.md
 ├── Netflix Content Strategy Analysis.ipynb
-├── netflix_data.csv
+├── netflix_content.csv
 └── assets/
     ├── charts/
     └── reports/
