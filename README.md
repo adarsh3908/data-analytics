@@ -1,6 +1,17 @@
 # Data Analytics Portfolio
 
-Welcome to my Data Analytics projects repository! This repository contains various data analysis projects showcasing different techniques, tools, and insights.
+Welcome to my Data Analytics projects repository! This repository contains a collection of data analytics projects demonstrating various data science techniques and insights across different domains.
+
+## Projects Overview
+
+### 1. Airbnb Listing Analysis
+**Focus**: Paris market analysis exploring pricing patterns, neighborhood trends, and regulatory impacts
+- **Dataset**: Comprehensive Airbnb listings data
+- **Key Analysis**: Neighborhood pricing hierarchy, accommodation capacity effects, temporal trends
+- **Highlight**: Impact of 2015 regulations on market dynamics (fewer hosts, higher prices)
+- **Techniques**: Pandas groupby operations, time series analysis, dual-axis visualizations
+
+### 2. YouTube Data Collection and Analysis
 
 ## Projects
 
@@ -17,7 +28,7 @@ Comprehensive analysis of YouTube trending videos data using the YouTube Data AP
 
 ---
 
-### 🎬 [Netflix Content Strategy Analysis](./netflix%20content%20strategy%20analysis/)
+### 3. Netflix Content Strategy Analysis
 In-depth analysis of Netflix's content strategy, market positioning, and streaming industry trends.
 
 **Key Features:**
@@ -31,7 +42,7 @@ In-depth analysis of Netflix's content strategy, market positioning, and streami
 
 ---
 
-### 🏏 [Batting Intent Analysis](./batting%20intent%20analysis/)
+### 4. Batting Intent Analysis
 Comprehensive analysis of batting strategies and intent patterns in IPL cricket using ball-by-ball data.
 
 **Key Features:**
@@ -61,6 +72,11 @@ Feel free to explore the projects and reach out with any questions or suggestion
 ```
 data-analytics/
 ├── README.md
+```
+├── airbnb listing analysis/
+│   ├── README.md
+│   ├── AirBnB Listing Analysis.ipynb
+│   └── Listings.csv (dataset not included - please provide your own)
 ├── youtube api analytics/
 │   ├── README.md
 │   ├── YouTube Data Collection and Analysis.ipynb
