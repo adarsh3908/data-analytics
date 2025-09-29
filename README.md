@@ -31,6 +31,20 @@ In-depth analysis of Netflix's content strategy, market positioning, and streami
 
 ---
 
+### 🏏 [Batting Intent Analysis](./batting%20intent%20analysis/)
+Comprehensive analysis of batting strategies and intent patterns in IPL cricket using ball-by-ball data.
+
+**Key Features:**
+- Strike rate analysis across match phases (Powerplay, Middle, Death overs)
+- Individual player batting style profiling
+- Team-wise performance comparison
+- Boundary vs dot ball percentage analysis
+- Multi-dimensional player comparison using radar charts
+
+**Technologies Used:** Python, Pandas, Matplotlib, Seaborn, NumPy
+
+---
+
 ## Getting Started
 
 Each project folder contains:
@@ -55,5 +69,9 @@ data-analytics/
 │   ├── README.md
 │   ├── Netflix Content Strategy Analysis.ipynb
 │   └── netflix_content.csv
+├── batting intent analysis/
+│   ├── README.md
+│   ├── Batting Intent Analysis.ipynb
+│   └── ipl_deliveries.csv
 └── [Future projects will be added here]
 ```
