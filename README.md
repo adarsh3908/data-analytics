@@ -72,6 +72,6 @@ data-analytics/
 ├── batting intent analysis/
 │   ├── README.md
 │   ├── Batting Intent Analysis.ipynb
-│   └── ipl_deliveries.csv
+│   └── ipl_match_1473461_deliveries.csv
 └── [Future projects will be added here]
 ```

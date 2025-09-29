@@ -4,7 +4,7 @@ This project provides comprehensive analysis of batting intent patterns in IPL (
 
 ## Files
 - `Batting Intent Analysis.ipynb` - Main Jupyter notebook with detailed analysis and visualizations
-- `ipl_deliveries.csv` - Dataset containing ball-by-ball IPL match data
+- `ipl_match_1473461_deliveries.csv` - Dataset containing ball-by-ball IPL match data
 
 ## 🔹 Project Overview
 
@@ -130,7 +130,7 @@ Cricket matches are divided into strategic phases:
 ### **Setup**
 1. Ensure Python 3.7+ is installed
 2. Install required libraries: `pip install pandas matplotlib seaborn numpy`
-3. Place `ipl_deliveries.csv` in the same directory as the notebook
+3. Place `ipl_match_1473461_deliveries.csv` in the same directory as the notebook
 
 ### **Running the Analysis**
 1. Open `Batting Intent Analysis.ipynb` in Jupyter Notebook/Lab
