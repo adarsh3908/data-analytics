@@ -4,10 +4,10 @@
 This project analyzes Airbnb listing data to understand pricing patterns, neighborhood trends, and market dynamics in Paris. The analysis focuses on how regulatory changes in 2015 affected the Airbnb market.
 
 ## Dataset
-- **File**: `Listings.csv` (not included - please provide your own Airbnb dataset)
-- **Source**: Airbnb listing data (available from various open data sources)
-- **Size**: Large dataset containing comprehensive Airbnb listing information
-- **Note**: Due to file size limitations, please obtain your own Airbnb listings dataset
+- **File**: `Listings.csv` (included via Git LFS)
+- **Source**: Airbnb listing data
+- **Size**: Large dataset containing comprehensive Airbnb listing information (150MB)
+- **Note**: Large file stored using Git Large File Storage (LFS)
 - **Key Fields**: 
   - `host_since`: Date when host joined Airbnb
   - `neighbourhood`: Paris neighborhood where listing is located
@@ -76,7 +76,7 @@ This project analyzes Airbnb listing data to understand pricing patterns, neighb
 airbnb listing analysis/
 ├── README.md
 ├── AirBnB Listing Analysis.ipynb
-└── Listings.csv (please provide your own dataset)
+└── Listings.csv
 ```
 
 ## Requirements
@@ -87,10 +87,9 @@ airbnb listing analysis/
 
 ## Usage
 1. Ensure all required libraries are installed
-2. **Obtain an Airbnb listings dataset** and place it as `Listings.csv` in this folder
-3. The dataset should include columns: host_since, neighbourhood, city, accommodates, price
-4. Run the Jupyter notebook cells sequentially
-5. Explore the generated visualizations and insights
+2. Clone the repository (Git LFS will automatically download the dataset)
+3. Run the Jupyter notebook cells sequentially
+4. Explore the generated visualizations and insights
 
 ## Future Enhancements
 - Expand analysis to other cities

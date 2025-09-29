@@ -76,7 +76,7 @@ data-analytics/
 ├── airbnb listing analysis/
 │   ├── README.md
 │   ├── AirBnB Listing Analysis.ipynb
-│   └── Listings.csv (dataset not included - please provide your own)
+│   └── Listings.csv
 ├── youtube api analytics/
 │   ├── README.md
 │   ├── YouTube Data Collection and Analysis.ipynb
