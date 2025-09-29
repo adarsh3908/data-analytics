@@ -75,6 +75,13 @@ Each project folder contains:
 
 Feel free to explore the projects and reach out with any questions or suggestions!
 
+### 6. Rainfall Analysis - India Climate Patterns
+**Focus**: Comprehensive analysis of 115 years (1901-2015) of rainfall data to understand climate trends and patterns
+- **Dataset**: India Meteorological Department area-weighted rainfall measurements
+- **Key Analysis**: Long-term trends, seasonal patterns, extreme weather detection, time series forecasting
+- **Highlight**: Machine learning anomaly detection, Prophet forecasting, statistical extreme event identification
+- **Techniques**: Isolation Forest, Facebook Prophet, correlation analysis, rolling averages, threshold statistics
+
 ## Repository Structure
 ```
 data-analytics/
@@ -88,6 +95,10 @@ data-analytics/
 │   ├── README.md
 │   ├── Bank Churn Classificaton.ipynb
 │   └── Bank_Churn.csv
+├── rainfall analysis/
+│   ├── README.md
+│   ├── Rainfall analysis.ipynb
+│   └── rainfall_area-wt_India_1901-2015.csv
 ├── youtube api analytics/
 │   ├── README.md
 │   ├── YouTube Data Collection and Analysis.ipynb
