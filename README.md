@@ -2,7 +2,41 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&### 🗳️ **10. Election Ad Spending Analysis**
+**Focus**: Political campaign effectiveness and advertising ROI optimization
+
+- 📊 **Dataset**: 554 constituencies + 20,833 advertising records
+- 🔍 **Analysis**: Spending patterns, voter turnout correlation, party strategies
+- ⭐ **Highlight**: 45% efficiency improvement potential with strategic insights
+- 🛠️ **Tech**: Statistical Analysis, Correlation Testing, Efficiency Metrics
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ **11. Electric Vehicle Market Analysis**
+**Focus**: EV adoption trends and market intelligence for strategic planning
+
+- 📊 **Dataset**: 177,868 EV registrations across Washington State
+- 🔍 **Analysis**: Adoption patterns, geographic clustering, technology evolution
+- ⭐ **Highlight**: Exponential growth identification with infrastructure insights
+- 🛠️ **Tech**: Geographic Analysis, Time Series, Market Forecasting
+
+</td>
+<td width="50%">
+
+### 🔮 **Coming Soon...**
+**Focus**: Expanding analytics portfolio with cutting-edge projects
+
+- 📊 **Planned**: Advanced ML, Deep Learning, Real-time Analytics
+- 🔍 **Vision**: Industry-specific solutions and innovative approaches
+- ⭐ **Goal**: Continuous learning and professional growth
+- 🛠️ **Tech**: Latest data science tools and methodologies
+
+</td>
+</tr>
+</table>&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
