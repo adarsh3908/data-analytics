@@ -337,6 +337,6 @@ data-analysis-using-python/
 
 **⭐ Star this repository if you found it helpful!**
 
-*Built with ❤️ using Python and data science best practices*
+*Built with ❤️ by Adarsh Prakash Singh*
 
 </div>
