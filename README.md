@@ -128,13 +128,13 @@
 </td>
 <td width="50%">
 
-### 🔮 **Coming Soon...**
-**Focus**: Expanding analytics portfolio with cutting-edge projects
+### �️ **10. Election Ad Spending Analysis**
+**Focus**: Political campaign effectiveness and advertising ROI optimization
 
-- 📊 **Planned**: Advanced ML, Deep Learning, Real-time Analytics
-- 🔍 **Vision**: Industry-specific solutions and innovative approaches
-- ⭐ **Goal**: Continuous learning and professional growth
-- 🛠️ **Tech**: Latest data science tools and methodologies
+- 📊 **Dataset**: 554 constituencies + 20,833 advertising records
+- 🔍 **Analysis**: Spending patterns, voter turnout correlation, party strategies
+- ⭐ **Highlight**: 45% efficiency improvement potential with strategic insights
+- 🛠️ **Tech**: Statistical Analysis, Correlation Testing, Efficiency Metrics
 
 </td>
 </tr>
