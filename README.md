@@ -157,41 +157,41 @@
 <div align="center">
 
 ```
-🗂️ data-analytics/
-├── 📄 README.md
-├── 🏠 airbnb listing analysis/
-│   ├── 📖 README.md
-│   ├── 📊 AirBnB Listing Analysis.ipynb
-│   └── 📋 Listings.csv
-├── 🏦 bank churn classification/
-│   ├── 📖 README.md
-│   ├── 📊 Bank Churn Classificaton.ipynb
-│   └── 📋 Bank_Churn.csv
-├── 🏏 batting intent analysis/
-│   ├── 📖 README.md
-│   ├── 📊 Batting Intent Analysis.ipynb
-│   └── 📋 ipl_match_1473461_deliveries.csv
-├── 💼 mutual fund planning/
-│   ├── 📖 README.md
-│   ├── 📊 Creating a Mutual Fund Plan.ipynb
-│   └── 📋 nifty50_closing_prices.csv
-├── 🎬 netflix content strategy analysis/
-│   ├── 📖 README.md
-│   ├── 📊 Netflix Content Strategy Analysis.ipynb
-│   └── 📋 netflix_content.csv
-├── 💰 price optimization analysis/
-│   ├── 📖 README.md
-│   ├── 📊 Optimizing the Price of a Product.ipynb
-│   └── 📋 Competition_Data.csv
-├── 🌧️ rainfall analysis/
-│   ├── 📖 README.md
-│   ├── 📊 Rainfall analysis.ipynb
-│   └── 📋 rainfall_area-wt_India_1901-2015.csv
-├── 📺 youtube api analytics/
-│   ├── 📖 README.md
-│   ├── 📊 YouTube Data Collection and Analysis.ipynb
-│   └── 📋 trending_videos.csv
-└── 🚀 [Future projects will be added here]
+data-analytics/
+├── README.md
+├── airbnb listing analysis/
+│   ├── README.md
+│   ├── AirBnB Listing Analysis.ipynb
+│   └── Listings.csv
+├── bank churn classification/
+│   ├── README.md
+│   ├── Bank Churn Classificaton.ipynb
+│   └── Bank_Churn.csv
+├── batting intent analysis/
+│   ├── README.md
+│   ├── Batting Intent Analysis.ipynb
+│   └── ipl_match_1473461_deliveries.csv
+├── mutual fund planning/
+│   ├── README.md
+│   ├── Creating a Mutual Fund Plan.ipynb
+│   └── nifty50_closing_prices.csv
+├── netflix content strategy analysis/
+│   ├── README.md
+│   ├── Netflix Content Strategy Analysis.ipynb
+│   └── netflix_content.csv
+├── price optimization analysis/
+│   ├── README.md
+│   ├── Optimizing the Price of a Product.ipynb
+│   └── Competition_Data.csv
+├── rainfall analysis/
+│   ├── README.md
+│   ├── Rainfall analysis.ipynb
+│   └── rainfall_area-wt_India_1901-2015.csv
+├── youtube api analytics/
+│   ├── README.md
+│   ├── YouTube Data Collection and Analysis.ipynb
+│   └── trending_videos.csv
+└── [Future projects will be added here]
 ```
 
 </div>
