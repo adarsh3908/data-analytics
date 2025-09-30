@@ -114,6 +114,30 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🛒 **9. Customer Satisfaction Analysis**
+**Focus**: E-commerce customer satisfaction optimization and predictive analytics
+
+- 📊 **Dataset**: 501 customer records with satisfaction metrics
+- 🔍 **Analysis**: Customer segmentation, satisfaction drivers, churn prediction
+- ⭐ **Highlight**: 85%+ model accuracy with actionable business roadmap
+- 🛠️ **Tech**: K-means Clustering, Random Forest, Statistical Testing
+
+</td>
+<td width="50%">
+
+### 🔮 **Coming Soon...**
+**Focus**: Expanding analytics portfolio with cutting-edge projects
+
+- 📊 **Planned**: Advanced ML, Deep Learning, Real-time Analytics
+- 🔍 **Vision**: Industry-specific solutions and innovative approaches
+- ⭐ **Goal**: Continuous learning and professional growth
+- 🛠️ **Tech**: Latest data science tools and methodologies
+
+</td>
+</tr>
 </table>
 
 ---
