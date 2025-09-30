@@ -89,6 +89,13 @@ Feel free to explore the projects and reach out with any questions or suggestion
 - **Highlight**: Revenue optimization through segment-specific pricing strategies and automated recommendations
 - **Techniques**: Demand elasticity modeling, market segmentation, competitive intelligence, dynamic pricing
 
+### 8. Mutual Fund Planning - Strategic Investment Portfolio Analysis
+**Focus**: NIFTY 50 data-driven mutual fund portfolio construction for optimal wealth building
+- **Dataset**: 25 trading days of NIFTY 50 closing prices across 50 top Indian companies
+- **Key Analysis**: Risk-return optimization, inverse volatility weighting, SIP wealth projection
+- **Highlight**: Conservative vs aggressive strategy comparison, 10-year wealth building roadmap
+- **Techniques**: Volatility analysis, ROI calculation, portfolio allocation, future value projection
+
 ## Repository Structure
 ```
 data-analytics/
@@ -118,6 +125,10 @@ data-analytics/
 │   ├── README.md
 │   ├── Netflix Content Strategy Analysis.ipynb
 │   └── netflix_content.csv
+├── mutual fund planning/
+│   ├── README.md
+│   ├── Creating a Mutual Fund Plan.ipynb
+│   └── nifty50_closing_prices.csv
 ├── batting intent analysis/
 │   ├── README.md
 │   ├── Batting Intent Analysis.ipynb
