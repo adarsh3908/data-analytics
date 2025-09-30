@@ -1,17 +1,45 @@
-# 📊 Mutual Fund Planning - Strategic Investment Portfolio Analysis
+# � Mutual Fund Planning - Strategic Investment Portfolio Analysis
 
-## 🎯 Project Overview
+<div align="center">
 
-This comprehensive data science project analyzes NIFTY 50 stock data to create optimal mutual fund investment strategies. The analysis combines historical performance evaluation, risk assessment, and future wealth projection to provide actionable investment recommendations for both conservative and aggressive investors.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-## 🔍 Business Problem
+![Portfolio](https://img.shields.io/badge/Portfolio_ROI-8.24%25-brightgreen?style=for-the-badge)
+![Risk](https://img.shields.io/badge/Risk_Reduction-15.2%25-blue?style=for-the-badge)
+![Companies](https://img.shields.io/badge/NIFTY_50-50_Companies-orange?style=for-the-badge)
 
-Individual investors often struggle with:
-- **Portfolio Selection**: Choosing the right stocks from hundreds of options
-- **Risk Management**: Balancing growth potential with acceptable risk levels
-- **Investment Allocation**: Determining optimal investment ratios across selected stocks
-- **Long-term Planning**: Understanding wealth building potential over different time horizons
-- **Strategy Comparison**: Evaluating conservative vs aggressive investment approaches
+</div>
+
+> **🎯 Strategic NIFTY 50 Investment Analysis**: This comprehensive data science project creates optimal mutual fund investment strategies through rigorous risk-return analysis, historical performance evaluation, and future wealth projection modeling for both conservative and aggressive investors.
+
+---
+
+## � Business Problem
+
+<div align="center">
+
+| 🤔 **Challenge** | 📊 **Impact** | 💡 **Solution** |
+|:---------------:|:------------:|:---------------:|
+| **Portfolio Selection** | Analysis Paralysis | Data-driven stock filtering |
+| **Risk Management** | Potential losses | Volatility-based risk assessment |
+| **Investment Allocation** | Suboptimal returns | Inverse volatility weighting |
+| **Long-term Planning** | Goal uncertainty | SIP wealth projections |
+| **Strategy Comparison** | Strategy confusion | Conservative vs Aggressive analysis |
+
+</div>
+
+### 💼 **Individual Investor Challenges:**
+- 🎯 **Portfolio Selection**: Choosing optimal stocks from 50+ NIFTY companies
+- ⚖️ **Risk Management**: Balancing growth potential with acceptable risk levels  
+- 📊 **Investment Allocation**: Determining optimal investment ratios across selected stocks
+- 📈 **Long-term Planning**: Understanding wealth building potential over different horizons
+- 🤝 **Strategy Comparison**: Evaluating conservative vs aggressive investment approaches
+
+---
 
 ## 📈 Dataset Information
 
@@ -87,35 +115,60 @@ Individual investors often struggle with:
 - **Formula**: Weight = (1/Volatility) / Sum(1/Volatility)
 - **Benefit**: Risk-adjusted portfolio distribution
 
-## 📊 Key Findings & Results
+## 🏆 Key Findings & Results
 
-### Mutual Fund Portfolio Performance:
-- **Selected Companies**: 15 stocks meeting balanced criteria
-- **Average ROI**: 8.24% over analysis period
-- **Average Risk**: 287.45 volatility points
-- **Risk-Return Ratio**: 0.0287
-- **Investment Philosophy**: Conservative balanced growth
+<div align="center">
 
-### Top 5 Recommended Stocks:
-1. **ULTRACEMCO**: 15.2% allocation, 12.4% ROI
-2. **NESTLEIND**: 12.8% allocation, 10.1% ROI  
-3. **BRITANNIA**: 11.5% allocation, 9.7% ROI
-4. **SHREECEM**: 10.3% allocation, 11.2% ROI
-5. **SUNPHARMA**: 9.8% allocation, 8.9% ROI
+### 💼 **Mutual Fund Portfolio Performance**
 
-### Strategy Comparison Results:
-| Metric | Mutual Fund Strategy | Growth Strategy |
-|--------|---------------------|-----------------|
-| Average ROI | 8.24% | 12.67% |
-| Average Risk | 287.45 | 445.23 |
-| Risk Level | MODERATE | HIGH |
-| Suitability | Conservative Investors | Aggressive Investors |
+![ROI](https://img.shields.io/badge/Average_ROI-8.24%25-success?style=for-the-badge)
+![Risk](https://img.shields.io/badge/Portfolio_Risk-287.45-blue?style=for-the-badge)  
+![Ratio](https://img.shields.io/badge/Risk_Return_Ratio-0.0287-orange?style=for-the-badge)
 
-### Wealth Building Projection (₹5,000 Monthly SIP):
-- **1 Year**: ₹60,000 → ₹65,847 (₹5,847 gain)
-- **3 Years**: ₹180,000 → ₹208,542 (₹28,542 gain)
-- **5 Years**: ₹300,000 → ₹372,185 (₹72,185 gain)
-- **10 Years**: ₹600,000 → ₹816,294 (₹216,294 gain)
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+#### 🥇 **Top 5 Recommended Stocks:**
+| Rank | Stock | Allocation | ROI |
+|:----:|:------|:----------:|:---:|
+| 🥇 | **ULTRACEMCO** | 15.2% | 12.4% |
+| 🥈 | **NESTLEIND** | 12.8% | 10.1% |
+| 🥉 | **BRITANNIA** | 11.5% | 9.7% |
+| 4️⃣ | **SHREECEM** | 10.3% | 11.2% |
+| 5️⃣ | **SUNPHARMA** | 9.8% | 8.9% |
+
+</td>
+<td width="50%">
+
+#### ⚖️ **Strategy Comparison:**
+| Metric | 💼 Mutual Fund | 🚀 Growth |
+|:-------|:-------------:|:---------:|
+| **Average ROI** | 8.24% | 12.67% |
+| **Average Risk** | 287.45 | 445.23 |
+| **Risk Level** | MODERATE | HIGH |
+| **Best For** | Conservative | Aggressive |
+
+</td>
+</tr>
+</table>
+
+### 💰 **Wealth Building Projection (₹5,000 Monthly SIP):**
+
+<div align="center">
+
+| 📅 **Period** | 💵 **Investment** | 📈 **Future Value** | 🎯 **Total Gain** | 📊 **ROI** |
+|:------------:|:----------------:|:------------------:|:----------------:|:----------:|
+| **1 Year** | ₹60,000 | ₹65,847 | ₹5,847 | 9.7% |
+| **3 Years** | ₹1,80,000 | ₹2,08,542 | ₹28,542 | 15.9% |
+| **5 Years** | ₹3,00,000 | ₹3,72,185 | ₹72,185 | 24.1% |
+| **10 Years** | ₹6,00,000 | ₹8,16,294 | ₹2,16,294 | 36.0% |
+
+</div>
+
+---
 
 ## 💼 Business Impact & Value
 
