@@ -26,13 +26,13 @@
 </td>
 <td width="50%">
 
-### 🔮 **Coming Soon...**
-**Focus**: Expanding analytics portfolio with cutting-edge projects
+### � **12. Delhi Metro Network Analysis**
+**Focus**: Urban transportation intelligence and infrastructure optimization
 
-- 📊 **Planned**: Advanced ML, Deep Learning, Real-time Analytics
-- 🔍 **Vision**: Industry-specific solutions and innovative approaches
-- ⭐ **Goal**: Continuous learning and professional growth
-- 🛠️ **Tech**: Latest data science tools and methodologies
+- 📊 **Dataset**: 286 metro stations across Delhi NCR with network mapping
+- 🔍 **Analysis**: Expansion phases, network topology, accessibility assessment
+- ⭐ **Highlight**: 4-phase development strategy with geographic optimization
+- 🛠️ **Tech**: Geospatial Analysis, Network Mapping, Transportation Planning
 
 </td>
 </tr>
