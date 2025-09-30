@@ -185,7 +185,7 @@
 
 1. **📂 Clone the repository**
    ```bash
-   git clone https://github.com/adarsh3908/data-analytics.git
+   git clone https://github.com/adarsh3908/data-analysis-using-python.git
    ```
 
 2. **📦 Install dependencies**
@@ -207,7 +207,7 @@
 <div align="center">
 
 ```
-data-analytics/
+data-analysis-using-python/
 ├── README.md
 ├── airbnb listing analysis/
 │   ├── README.md
